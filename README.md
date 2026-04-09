@@ -9,7 +9,9 @@ The final dashboard provides a high-level view, allowing to:
     Monitor Key Performance Indicators (KPIs).
 
 📂 Repository Structure
+
 ├── dashboard.xlsx
+
 └── README.md  # Project documentation
 
 💡 Key Learnings
