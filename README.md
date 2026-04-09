@@ -10,7 +10,7 @@ The final dashboard provides a high-level view, allowing to:
 
 📂 Repository Structure
 ├── dashboard.xlsx
-└── README.md           # Project documentation
+└── README.md  # Project documentation
 
 💡 Key Learnings
 
